@@ -1,8 +1,8 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-from backend.prompts import IDEAL_ANSWERS
-from backend.prompts import QUESTION_BANK
 import random
+from prompts import IDEAL_ANSWERS, QUESTION_BANK
+
 
 
 vectorizer = TfidfVectorizer()
