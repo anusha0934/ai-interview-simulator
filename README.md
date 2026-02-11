@@ -1,7 +1,5 @@
 🧠 AI Interview Simulator
 
-🧠 AI Interview Simulator
-
 An AI-powered interview practice platform that evaluates candidate answers using semantic similarity scoring and dynamically adapts question difficulty in real time.
 ---
 
@@ -113,3 +111,4 @@ ai-interview-simulator/
 Anusha K A
 Aspiring AI Engineer | Data Science Student
 Passionate about building real-world AI systems 🚀
+
