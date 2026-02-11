@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from scoring import evaluate_answer, get_followup_question
+from backend.scoring import evaluate_answer, get_followup_question
+
 
 
 app = FastAPI(title="AI Interview Simulator")
